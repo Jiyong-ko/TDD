@@ -6,7 +6,7 @@
 //
 
 import XCTest
-
+@testable import HelloWorld
 
 final class FizzBuzzTests: XCTestCase {
     // 제일 처음에 호출

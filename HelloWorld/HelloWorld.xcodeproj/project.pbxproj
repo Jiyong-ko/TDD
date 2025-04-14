@@ -21,22 +21,9 @@
 		8ABEF3D02DACD32F00779BE2 /* HelloWorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		8ABEF3F32DACDE4300779BE2 /* Exceptions for "HelloWorld" folder in "HelloWorldTests" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				FizzBuzz.swift,
-			);
-			target = 8ABEF3CF2DACD32F00779BE2 /* HelloWorldTests */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		8ABEF3C22DACD32E00779BE2 /* HelloWorld */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				8ABEF3F32DACDE4300779BE2 /* Exceptions for "HelloWorld" folder in "HelloWorldTests" target */,
-			);
 			path = HelloWorld;
 			sourceTree = "<group>";
 		};
